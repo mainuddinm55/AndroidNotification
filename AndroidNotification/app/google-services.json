@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849281158144",
+    "firebase_url": "https://androidnotificationfcm.firebaseio.com",
+    "project_id": "androidnotificationfcm",
+    "storage_bucket": "androidnotificationfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849281158144:android:679430fe0b12b28b",
+        "android_client_info": {
+          "package_name": "com.learner.androidnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849281158144-2jqd3f25478osgpkt7e6njehaj07ogul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKtsC53vHAurZtSR6sBmxqNJvdTvHvBBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

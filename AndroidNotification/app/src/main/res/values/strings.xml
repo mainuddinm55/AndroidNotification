@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Notification</string>
+    <string name="show_notification_text">Show Notification</string>
+    <string name="no_user_text">No user found</string>
+    <string name="notification_title">Notification title</string>
+    <string name="notification_body">Notification body</string>
+    <string name="send">Send</string>
+    <string name="logout">Logout</string>
+</resources>
